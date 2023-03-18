@@ -1,3 +1,4 @@
+alert("No helana please just a beginner's work");
 var random1=Math.floor(Math.random()*6)+1;
 
 
